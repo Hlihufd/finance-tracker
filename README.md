@@ -2,7 +2,7 @@
 
 REST API для учёта личных финансов: доходы, расходы, категории, статистика.
 
-**Стек:** C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, SQL Server
+**Стек:** C#, .NET 10, ASP.NET Core Web API, Entity Framework Core, SQL Server
 
 ## Статус
 🚧 В разработке
